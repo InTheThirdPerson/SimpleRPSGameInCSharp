@@ -1,0 +1,9 @@
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\bin\Debug\ProjectTwo.exe.config
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\bin\Debug\ProjectTwo.exe
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\bin\Debug\ProjectTwo.pdb
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.csprojResolveAssemblyReference.cache
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.rpsGame.resources
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.Properties.Resources.resources
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.csproj.GenerateResource.Cache
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.exe
+G:\School Work\Spring 2014\Spring 2014 - Cpt-185-80 Programming in C#\Projects\Project 2\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.pdb
